@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursion-An Art of Problem Solving](https://medium.com/@aroraswati859/recursion-an-art-of-problem-solving-b129c6e823f5?source=rss-58b1491b45eb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
